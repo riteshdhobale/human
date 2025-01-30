@@ -32,4 +32,4 @@ Following are a ***few human poses*** predicted by the model:-
 | ![alt text](https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2.jpg) | <img src="https://github.com/fork123aniket/Human-Pose-Estimation/blob/main/images/sample2_result.webp" height="395"> |
 | <img src="https://github.com/fork123aniket/Encoder-Decoder-based-Video-Captioning/blob/main/input_videos/7NNg0_n-bS8_21_30.gif" width="320"> | a man is performing on a stage | -->
 - SOME WEB CAM GENERATED KEYPOINT SKELETON
-<img src="https://github.com/85447/Human-Pose-Estimation/blob/main/SampleImagesResults/P3.png" height="495">
+<img src="Human-Pose-Estimation-main/SampleImagesResults/P3.png" height="495">
